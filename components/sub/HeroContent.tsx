@@ -25,7 +25,7 @@ const HeroContent = () => {
         >
           <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500">
               {" "}
-              Hello There!{" "}
+              Hello!{" "}
           </span>
           
         </motion.div>
@@ -48,8 +48,7 @@ const HeroContent = () => {
           variants={slideInFromLeft(0.8)}
           className="text-lg text-gray-400 my-5 max-w-[600px]"
         >
-          I am a Network Tech with experience in Website,
-          Mobile, Software development. Check out my projects and skills.
+          I am a Network Tech with a passion in coding. Check out my projects and skills.
         </motion.p>
        
         <motion.a

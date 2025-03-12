@@ -17,7 +17,7 @@ const Projects = () => {
         <ProjectCard
           src="/NextWebsite.png"
           title="Modern Next.js Portfolio"
-          name="Data Visualization"
+          name="Server"
           url="https://github.com/kennypalacio/KennyPalacio.github.io.git"
         />
         <ProjectCard
