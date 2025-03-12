@@ -32,7 +32,7 @@ const About = () => {
         <div className="flex flex-col items-center ml group cursor-pointer w-auto h-auto">
        
         <a
-        href="https://drive.google.com/file/d/1L5KXrd5LmoxjaiI5K7JOkrw8HQzq9DIS/view?usp=sharing"
+        href="https://drive.google.com/file/d/1DDj_zgIun5W3IWaZLU5oiAuYGbzHYv1h/view?usp=sharing"
         target="_blank"
         rel="noopener noreferrer"
         
